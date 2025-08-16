@@ -1,0 +1,4 @@
+Flash:  32 kB
+SRAM:   2 kB
+EEPROM: 1 kB
+Arduino Nano is awesome!
